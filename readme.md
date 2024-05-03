@@ -9,6 +9,7 @@
     // interview question : 
     //how html , css run in browser ?
 <img src="img/Screenshot_13.png" alt="flowchart" width = "100%"/>
+
     ------------------------------------------------------------------    
                 know about js Dom 01  <End>
     -------------------------------------------------------------------
